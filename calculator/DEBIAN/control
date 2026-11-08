@@ -1,0 +1,10 @@
+Package: avar-calculator
+Version: 1.0
+Section: utils
+Priority: optional
+Architecture: all
+Depends: default-jre
+Maintainer: Avar Team <your@email.com>
+Description: Simple calculator for Avar
+ A small calculator written in Java. The window title follows
+ the system language.

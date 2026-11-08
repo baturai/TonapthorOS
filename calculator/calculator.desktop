@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Calculator
+Name[tr]=Hesap Makinesi
+Name[de]=Taschenrechner
+Name[fr]=Calculatrice
+Name[es]=Calculadora
+Name[it]=Calcolatrice
+Name[ru]=Калькулятор
+Exec=java -jar /usr/share/java/calculator.jar
+Type=Application
+Categories=Utility;Calculator;
+Terminal=false
